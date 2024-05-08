@@ -80,3 +80,4 @@ fabric.properties
 credientials.json
 tokens.xlsx
 .~lock.tokens.xlsx#
+!/.venv/
